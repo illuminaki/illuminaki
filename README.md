@@ -29,7 +29,7 @@
 
 ###
 
-- 🔭 I’m currently working on [Riwi](riwi.io)
+- 🔭 I’m currently working on [Riwi](https://github.com/Riwi-io-Medellin)
 
 - 🌱 I’m currently learning **Integración IA & TON Blockchain**
 
