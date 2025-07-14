@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Sebastián Agudelo, a Fullstack Developer from Colombia</h2>
+<h2 align="left">Hi 👋! <img src="img/star-GIF.gif" height="30" /> I'm Sebastián Agudelo, a Fullstack Developer from Colombia</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" width="30%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQzbml5ODZ5NTlxcDczMHUxMHRhZTJibXo0NTV2NTRqdG8xYzhvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/24C2paIV0IBEY/giphy.gif" alt="Coding Cat"  />
+<img align="right" width="30%" src="img/cat _working.gif" alt="Coding Cat"  />
 
 ###
 
