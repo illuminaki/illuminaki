@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Cat"  />
+<img align="right" width="30%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQzbml5ODZ5NTlxcDczMHUxMHRhZTJibXo0NTV2NTRqdG8xYzhvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/24C2paIV0IBEY/giphy.gif" alt="Coding Cat"  />
 
 ###
 
@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on [Riwi](riwi.io)
 
-- 🌱 I’m currently learning **Rails 8, Turbo Native, integración con TON Blockchain, y optimización SEO en Rails.**
+- 🌱 I’m currently learning **Integración IA & TON Blockchain**
 
 - 👯 I’m looking to collaborate on [Comunidad Web3 e IA](https://cafetech.lat/)
 
@@ -58,8 +58,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/illuminaki/illuminaki/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
 <picture>
