@@ -76,13 +76,6 @@
   </a>
 </div>
 
-###
-
-<div align="left">
-  <a href="https://octoprofile.vercel.app/user/illuminaki">
-    <img src="https://img.shields.io/static/v1?message=OctoProfile&logo=github&label=&color=2D2A55&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="octoprofile link" />
-  </a>
-</div>
 
 ###
 
